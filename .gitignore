@@ -1,0 +1,9 @@
+# Ignora la carpeta node_modules
+node_modules
+# Ignora la carpeta
+/class-01
+/class-02
+/class-03
+/class-04
+/class-05
+/class-06

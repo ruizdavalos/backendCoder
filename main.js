@@ -4,7 +4,10 @@ const Contenedor = require('./segundoDesafio.js')
 const app = express()
 const ContenedorProductos = new Contenedor('./productos.txt')
 
-const PORT = 8080
+//const PORT = 8080
+
+
+const PORT= process.env.PORT ||8080
 
 app.listen(PORT, () => console.log(`Servidor corriendo en el puerto http://localhost:${PORT}`))  
 
