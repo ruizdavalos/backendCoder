@@ -1,5 +1,11 @@
 [
   {
+    "title": "Lavarropas",
+    "price": 3000,
+    "thumbnail": "https://www.iconfinder.com/search?q=laudry&show_all=true&sort=asc__sort_index",
+    "id": 3
+  },
+  {
     "title": "Heladera",
     "price": 2000,
     "thumbnail": "https://www.iconfinder.com/search?q=freezer&show_all=true&sort=asc__sort_index",
@@ -16,5 +22,11 @@
     "price": 3000,
     "thumbnail": "https://www.iconfinder.com/search?q=laudry&show_all=true&sort=asc__sort_index",
     "id": 3
+  },
+  {
+    "title": "Cocina",
+    "price": 3000,
+    "thumbnail": "https://www.iconfinder.com/search?q=kitchen",
+    "id": 4
   }
 ]
